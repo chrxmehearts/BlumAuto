@@ -11,7 +11,7 @@ This Java script automates clicking in the game "Blum" without the need for any 
 
 3. To stop the script, simply close the console.
 
-**Note:** There is an annoying sticker after the game, which is a unicorn (with a green color on its horn). The script may trigger on it. Simply press Alt+F4 and repeat from step 1.
+**Note:** There is can be an annoying sticker after the game, which is a unicorn (with a green color on its horn). The script may trigger on it. Simply press Alt+F4 and repeat from step 1.
 
 
 RU
@@ -27,5 +27,5 @@ RU
 
 3. Чтобы остановить скрипт, просто закройте консоль.
 
-**Примечание:** После игры появится неприятный стикер — единорог (у него зеленый цвет на роге). Скрипт может сработаться на него. Просто нажмите Alt+F4 и повторите все с первого шага.
+**Примечание:** После игры может появится неприятный стикер — единорог (у него зеленый цвет на роге). Скрипт может затригерится на него. Просто нажмите Alt+F4 и повторите все с первого шага.
 
